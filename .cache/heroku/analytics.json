@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "commands": [
+    {
+      "command": "keys:add",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486565862,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 448542,
+      "valid": true
+    },
+    {
+      "command": "create",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486566330,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 2503,
+      "valid": true
+    },
+    {
+      "command": "rename",
+      "timestamp": 1486566396,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 28,
+      "valid": false
+    },
+    {
+      "command": "buildpacks:set",
+      "timestamp": 1486566468,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 12,
+      "valid": false
+    },
+    {
+      "command": "buildpacks:set",
+      "timestamp": 1486566485,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "go",
+      "status": 2,
+      "runtime": 2,
+      "valid": false
+    },
+    {
+      "command": "dashboard",
+      "plugin": "heroku-apps",
+      "plugin_version": "2.1.20",
+      "timestamp": 1486566535,
+      "version": "5.6.8-9647e01",
+      "os": "linux",
+      "arch": "amd64",
+      "language": "node",
+      "status": 0,
+      "runtime": 2476,
+      "valid": true
+    }
+  ]
+}
